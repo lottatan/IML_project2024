@@ -1,1 +1,1 @@
-# IML_project2024
+# Introduction to Machine Learning term project 2024
